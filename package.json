@@ -1,0 +1,25 @@
+{
+  "name": "writing_macro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junhyeong32/writing_Macro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junhyeong32/writing_Macro/issues"
+  },
+  "homepage": "https://github.com/junhyeong32/writing_Macro#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^8.0.0",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  }
+}
